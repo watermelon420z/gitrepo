@@ -1,3 +1,3 @@
 text = "Hello World"
 
-print(text.lower())
+print(text[0])
